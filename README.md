@@ -1,2 +1,1 @@
-# Merge-Sort-Project
-Project for Patika module
+# Merge Sort Project
